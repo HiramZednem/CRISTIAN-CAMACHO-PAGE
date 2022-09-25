@@ -1,0 +1,45 @@
+*{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: #ffffff;
+}
+header{
+    width: 100%;
+    min-height: 80px;
+
+    height: 80px;
+    min-width: 1250px;
+
+    background-color:#C76131;
+    clear:both; 
+}
+h1{
+    display: inline-block;
+    text-align: center;
+    padding-left: 30px;
+
+
+}
+
+.socialMedia{ /*div socialMedia*/
+    float: right;
+    padding-top: 10px;
+    padding-right: 10px;
+
+}
+.icons{
+    width: 60px;
+    vertical-align:middle;
+    margin-right: 10px;
+}
+
+.logo{
+    width: 60px;
+    vertical-align:middle;
+    padding-left: 100px;
+    padding-bottom: 10px;
+
+    border-radius: 50% 20% / 10% 40%;
+    
+
+}
+
