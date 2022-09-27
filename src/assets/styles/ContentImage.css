@@ -41,6 +41,7 @@
     -webkit-transition: all 150ms ease-in-out;
     transition: all 150ms ease-in-out;
   }
-  .third:hover {
-    box-shadow: 0 0 10px 0 #c76131 inset, 0 0 10px 4px #c76131;
-  }
+  
+.third:hover {
+box-shadow: 0 0 10px 0 #c76131 inset, 0 0 10px 4px #c76131;
+}
