@@ -14,8 +14,9 @@ function App() {
       <Layout>
         <InformationContent></InformationContent>
 
-        <Footer></Footer>
       </Layout>
+      <Footer></Footer>
+
        
     </>
 

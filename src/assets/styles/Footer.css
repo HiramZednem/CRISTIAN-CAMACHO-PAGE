@@ -2,11 +2,21 @@ footer {
     background-color: black;
     
     width: 100%;
+    min-width: 1250px;
     height: 40px;
+    min-height: 40px;
     color: white;
 
     padding-top: 4px;
-    padding-bottom: 4px;
+    /*
+    width: 100%;
+    min-height: 80px;
+
+    height: 80px;
+    min-width: 1250px;
+
+    background-color:#C76131;
+    clear:both; */
 }
 
 footer p {

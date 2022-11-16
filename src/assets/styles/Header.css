@@ -2,6 +2,11 @@
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     color: #ffffff;
 }
+
+body {
+    width: 100%; 
+    
+}
 header{
     width: 100%;
     min-height: 80px;
